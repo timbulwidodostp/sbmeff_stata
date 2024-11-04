@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'sbmeff': Slacks based Measure of Efficiency in Stata Use sbmeff With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lsbmeff.mlib
+f sbmeff.ado
+f sbmeff.sthlp
